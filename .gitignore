@@ -1,0 +1,8 @@
+*.log
+lines.txt
+New Text Document.txt
+directory
+!directory
+directory
+shell-lesson-data
+!directory
