@@ -1,8 +1,8 @@
-first line
-second line
-third line
-fourth line
-fifth line
-who knows what
-seventh line apparently
+line 1
+line 2
+line 3
+line 4
+line 5
+line 6
+line 7
 line 8
